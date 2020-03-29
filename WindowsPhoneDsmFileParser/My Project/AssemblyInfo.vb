@@ -8,12 +8,12 @@ Imports System.Runtime.InteropServices
 
 ' 檢閱組件屬性的值
 
-<Assembly: AssemblyTitle("WindowsPhoneDsmFileParser")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("WindowsPhoneDsmFileParser")> 
-<Assembly: AssemblyCopyright("Copyright ©  2020")> 
-<Assembly: AssemblyTrademark("")> 
+<Assembly: AssemblyTitle("Windows Phone DSM File Parser")> 
+<Assembly: AssemblyDescription("Windows Phone Package DSM File Parser")> 
+<Assembly: AssemblyCompany("PC-DOS Workshop")> 
+<Assembly: AssemblyProduct("Windows Phone DSM File Parser")> 
+<Assembly: AssemblyCopyright("Copyright © 2013-2020 PC-DOS Workshop")> 
+<Assembly: AssemblyTrademark("PC-DOS Workshop")> 
 
 <Assembly: ComVisible(False)>
 
