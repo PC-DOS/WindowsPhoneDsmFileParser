@@ -1,0 +1,8 @@
+D:\WindowsPhoneDsmFileParser\WindowsPhoneDsmFileParser\bin\Release\WindowsPhoneDsmFileParser.dll
+D:\WindowsPhoneDsmFileParser\WindowsPhoneDsmFileParser\bin\Release\WindowsPhoneDsmFileParser.pdb
+D:\WindowsPhoneDsmFileParser\WindowsPhoneDsmFileParser\bin\Release\WindowsPhoneDsmFileParser.xml
+D:\WindowsPhoneDsmFileParser\WindowsPhoneDsmFileParser\obj\Release\WindowsPhoneDsmFileParser.Resources.resources
+D:\WindowsPhoneDsmFileParser\WindowsPhoneDsmFileParser\obj\Release\WindowsPhoneDsmFileParser.vbproj.GenerateResource.Cache
+D:\WindowsPhoneDsmFileParser\WindowsPhoneDsmFileParser\obj\Release\WindowsPhoneDsmFileParser.dll
+D:\WindowsPhoneDsmFileParser\WindowsPhoneDsmFileParser\obj\Release\WindowsPhoneDsmFileParser.xml
+D:\WindowsPhoneDsmFileParser\WindowsPhoneDsmFileParser\obj\Release\WindowsPhoneDsmFileParser.pdb
