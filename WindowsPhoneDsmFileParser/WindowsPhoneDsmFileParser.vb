@@ -1,7 +1,10 @@
 ﻿Imports System.IO
 Imports System.Xml
 Imports System.Xml.Serialization
-
+''' <summary>
+''' 用于解析 Windows Phone CAB 包的工具。
+''' </summary>
+''' <remarks></remarks>
 Public Class WindowsPhoneDsmFileParser
     ''' <summary>
     ''' 描述 Windows Phone CAB 包的文件列表。
@@ -256,3 +259,4 @@ Public Class WindowsPhoneDsmFileParser
         XmlFileStream.Close()
     End Sub
 End Class
+

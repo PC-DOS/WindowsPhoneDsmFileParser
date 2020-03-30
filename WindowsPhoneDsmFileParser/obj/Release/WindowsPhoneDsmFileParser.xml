@@ -217,6 +217,11 @@ WindowsPhoneDsmFileParser
  </summary>
 	<param name="OutputFilePath">要写入的 XML 文件的路径。</param>
 	<remarks></remarks>
+</member><member name="T:WindowsPhoneDsmFileParser.WindowsPhoneDsmFileParser">
+	<summary>
+ 用于解析 Windows Phone CAB 包的工具。
+ </summary>
+	<remarks></remarks>
 </member><member name="P:WindowsPhoneDsmFileParser.My.Resources.Resources.ResourceManager">
 	<summary>
   Returns the cached ResourceManager instance used by this class.
