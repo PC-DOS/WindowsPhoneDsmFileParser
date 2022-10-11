@@ -238,11 +238,11 @@ Public Class WindowsPhoneDsmFileParser
     ''' <summary>
     ''' 从 Windows Phone 包描述文件建立一个 Windows Phone 包对象。
     ''' </summary>
-    ''' <param name="DsmFIlePath">Windows Phone 包描述文件的路径。</param>
+    ''' <param name="DsmFilePath">Windows Phone 包描述文件的路径。</param>
     ''' <remarks></remarks>
-    Public Sub LoadPackage(DsmFIlePath As String)
+    Public Sub LoadPackage(DsmFilePath As String)
         Dim Serializer As New XmlSerializer(GetType(WindowsPhonePackageInformation))
-        Dim XmlFileStream As New FileStream(DsmFIlePath, FileMode.OpenOrCreate)
+        Dim XmlFileStream As New FileStream(DsmFilePath, FileMode.OpenOrCreate)
         _WindowsPhonePackage = Serializer.Deserialize(XmlFileStream)
         XmlFileStream.Close()
     End Sub
